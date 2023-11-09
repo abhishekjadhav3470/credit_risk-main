@@ -78,6 +78,6 @@ Software and Tools Required
 * git remote add origin <github path>
 * git push -u origin main
 
-## Best Model Found , Model Name : RandomForestClassifier , Accuracy Score : 0.8125555555555556
+#### Best Model is RandomForestClassifier
 
-Abhishek Jadhav
+### Abhishek Jadhav
