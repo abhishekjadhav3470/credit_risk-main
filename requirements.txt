@@ -1,0 +1,9 @@
+pandas
+numpy
+Flask
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn==0.10.1
+
+-e .
