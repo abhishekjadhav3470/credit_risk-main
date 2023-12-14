@@ -3,6 +3,7 @@ numpy
 Flask
 seaborn
 matplotlib
+notebook
 scikit-learn
 imbalanced-learn==0.10.1
 
